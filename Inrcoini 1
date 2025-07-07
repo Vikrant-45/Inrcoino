@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>INRcoin - Digital Future of India</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <header>
+    <div class="container">
+      <h1>INRcoin</h1>
+      <nav>
+        <a href="#about">About</a>
+        <a href="#features">Features</a>
+        <a href="#usecases">Use Cases</a>
+        <a href="#contact">Contact</a>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero">
+    <div class="container">
+      <h2>Empowering India's Digital Economy</h2>
+      <p>INRcoin is a utility token promoting digital literacy, financial inclusion, and blockchain innovation across India.</p>
+      <a href="#about" class="btn">Learn More</a>
+    </div>
+  </section>
+
+  <section id="about">
+    <div class="container">
+      <h2>About INRcoin</h2>
+      <p>INRcoin is designed to drive India's digital revolution by offering a safe, legal, and transparent way to participate in blockchain technology. It’s not just a token — it’s a mission to uplift communities through decentralized systems.</p>
+    </div>
+  </section>
+
+  <section id="features">
+    <div class="container">
+      <h2>Features</h2>
+      <ul>
+        <li>✅ Legal Utility Token</li>
+        <li>🔒 Blockchain Transparency</li>
+        <li>📱 Mobile Friendly Wallets</li>
+        <li>📈 Used for Trading & Investing</li>
+        <li>🛒 Purchase Products with INRcoin</li>
+      </ul>
+    </div>
+  </section>
+
+  <section id="usecases">
+    <div class="container">
+      <h2>Real-World Use Cases</h2>
+      <p>INRcoin can be used for trading, digital payments, online recharges, and even purchasing large items like electronics or farming machinery.</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <div class="container">
+      <h2>Contact Us</h2>
+      <p>Location: Khambada, Chandrapur, Maharashtra – 442904</p>
+      <p>Email: contact@inrcoin.in</p>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 INRcoin. All rights reserved.</p>
+    </div>
+  </footer>
+</body>
+</html>
